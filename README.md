@@ -1,6 +1,7 @@
-# [githubexplorer](components/images/landingpage.png)
+# Refatorando Codigo Criado !
 
-> Refatorando Codigo Criado !
+ ![githubexplorer](components/images/landingpage.png)
+
 
 ## Tecnologias usadas
 
